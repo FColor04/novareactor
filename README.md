@@ -1,54 +1,29 @@
 <p align="center">
   <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
+    <img alt="Nova Reactor" src="./src/images/icon.svg" width="120" style="border-radius: 100%;" />
   </a>
 </p>
 <h1 align="center">
-  Gatsby minimal TypeScript starter
+  Nova Reactor Webstie
 </h1>
 
-## 🚀 Quick start
+Open-Source for showcase only, check out my other projects!
 
-1.  **Create a Gatsby site.**
+# Home Structure
 
-    Use the Gatsby CLI to create a new site, specifying the minimal TypeScript starter.
+---
 
-    ```shell
-    # create a new Gatsby site using the minimal TypeScript starter
-    npm init gatsby
-    ```
+Home | Devlogs | Games | Contact
 
-2.  **Start developing.**
+## Intro
+We're a group of passionate game developers, we are currently publishing on itch.io with plans to move to steam when the time is right and when the community grows! On this site you'll find the devlogs, if you like recorded format more, check out our YouTube channel.
 
-    Navigate into your new site’s directory and start it up.
+#### Recent Devlogs
 
-    ```shell
-    cd my-gatsby-site/
-    npm run develop
-    ```
+#### Game carousel
 
-3.  **Open the code and start customizing!**
+## Contact
+We're open for collaboration, if you'd like to join us at a game jam or talk about some of our projects then go to contact page!
 
-    Your site is now running at http://localhost:8000!
 
-    Edit `src/pages/index.tsx` to see your site update in real-time!
-
-4.  **Learn more**
-
-    - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
-
-    - [Tutorials](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
-
-    - [Guides](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
-
-    - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
-
-    - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
-
-    - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
-
-## 🚀 Quick start (Gatsby Cloud)
-
-Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
-
-[<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-minimal-ts)
+by Marcin Smoła 2022
