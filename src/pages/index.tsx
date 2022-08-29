@@ -1,7 +1,7 @@
 import * as React from "react";
 import type { HeadFC } from "gatsby";
 import { StaticImage } from "gatsby-plugin-image";
-import banner from '../images/banner.svg';
+import banner from 'images/banner.svg';
 import styled from "styled-components";
 import Layout from "../components/layout";
 
