@@ -79,6 +79,7 @@ export const IndexPage = () => {
                   <StyledBannerSvg/>
                   ${Array.apply(0, Array(5)).map(() => <AnimatedSmoke/>)}
               </StyledBanner>
+
               <Header>Nova Reactor</Header>
               <StyledP>
                   We're a group of passionate game developers, we are currently publishing on itch.io with plans to move to

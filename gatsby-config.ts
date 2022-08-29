@@ -33,6 +33,11 @@ const config: GatsbyConfig = {
         include: /\.inline\.svg$/
       }
     }
+  }, {
+    resolve: `gatsby-plugin-google-adsense`,
+    options: {
+      publisherId: `ca-pub-3770368700455520`
+    },
   }]
 };
 
