@@ -1,7 +1,6 @@
 import * as React from "react";
 import type { HeadFC } from "gatsby";
-import { StaticImage } from "gatsby-plugin-image";
-import banner from 'images/banner.svg';
+import banner from '../images/Banner.inline.svg';
 import styled from "styled-components";
 import Layout from "../components/layout";
 
@@ -19,11 +18,12 @@ const StyledP = styled.p`
   font-size: 1.3em;
 `;
 
-const StyledBannerSvg = styled.img`
+const StyledBannerSvg = styled(banner)`
   position: absolute;
   left: 50%;
   top: 50%;
   width: 100vw;
+  height: fit-content;
   transform: translate(-50%, -50%);
 `;
 
@@ -76,7 +76,7 @@ export const IndexPage = () => {
       <Layout>
           <StyledMain>
               <StyledBanner>
-                  <StyledBannerSvg src={banner} alt={"Banner"}/>
+                  <StyledBannerSvg/>
                   ${Array.apply(0, Array(5)).map(() => <AnimatedSmoke/>)}
               </StyledBanner>
               <Header>Nova Reactor</Header>
